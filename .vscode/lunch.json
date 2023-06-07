@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python:odoo15c",
+            "type": "python",
+            "request": "launch",
+            "stopOnEntry": false,
+            "console": "integratedTerminal",
+            "python": "venv/bin/python3",
+            "args": [
+                "--config=conf/odoo15c.conf"
+            ],
+            "program": "src/odoo15c/odoo-bin"
+        }
+    ]
+}
