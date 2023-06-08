@@ -4,7 +4,7 @@
 - Relational Operators - Done
 - Logical Operators - Done
 - Bitwise Operators
-- Assignment Operators
+- Assignment Operators - Done
 - Special Operators
 - Identity Operators
 - Membership Operators
